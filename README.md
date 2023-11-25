@@ -6,7 +6,7 @@ In this Article I will show you how to document your Laravel API with swagger.
 
 ![image](https://github.com/GrytsenkoAndrey/ed-laravel-swagger-attribute-docs/assets/63291871/f6fadaed-d580-4418-b435-fba91b34591a)
 
-№№ INSTALLATION
+## INSTALLATION
 
 For this we are going to use the laravel-swagger package. It makes it easy to set up swagger-php and Swagger-ui in our laravel app. Swagger-php converts our attributes to openapi schema that swagger UI can interpret the schema into beautiful docs.
 

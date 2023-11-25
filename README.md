@@ -1,0 +1,1 @@
+# ed-laravel-swagger-attribute-docs
